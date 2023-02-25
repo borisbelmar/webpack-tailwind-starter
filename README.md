@@ -7,7 +7,7 @@ This is a base project for using Tailwind CSS with Webpack. It includes a basic 
 yarn
 
 # Run development server
-yarn dev
+yarn start
 
 # Build for production
 yarn build
