@@ -28,7 +28,7 @@ module.exports = {
     ],
   },
   plugins: [new HtmlWebpackPlugin({
-    title: 'Full JS Calculator'
+    title: 'Webpack and Tailwind Starter'
   })],
   devServer: {
     static: {
